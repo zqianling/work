@@ -1,10 +1,4 @@
-<!--
- * @Descripttion: 
- * @version: 0.11
- * @Author: 前领
- * @Date: 2019-08-27 18:10:33
- * @copyright: Copyright (c) 2019,Hand
- -->
+
 <template>
   <div class="addblog">
     <h1>{{ msg }}</h1>

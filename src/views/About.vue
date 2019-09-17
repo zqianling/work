@@ -1,10 +1,4 @@
-<!--
- * @Descripttion: 
- * @version: 0.11
- * @Author: 前领
- * @Date: 2019-08-27 17:15:16
- * @copyright: Copyright (c) 2019,Hand
- -->
+
 <template>
   <div class="about">
     <header>写博客</header>

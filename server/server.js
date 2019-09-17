@@ -1,10 +1,4 @@
-/*
- * @Descripttion:
- * @version: 0.11
- * @Author: 前领
- * @Date: 2019-09-04 09:55:53
- * @copyright: Copyright (c) 2019,Hand
- */
+
 //引入模块，
 const express = require("express");
 //引入mongoose库
